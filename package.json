@@ -1,7 +1,7 @@
 {
   "name": "university-management-server",
   "version": "1.0.0",
-  "description": "it is a University management backend created by nodejs using by typescript and expressjs",
+  "description": "it is a University management backend created by nodejs using by typescript and express-js",
   "main": "server.ts",
   "scripts": {
     "build": "tsc",
